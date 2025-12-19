@@ -6,11 +6,11 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 The challenge is to build out this recipe page and get it looking as close to the design as possible.
 
-###Screenshot
+### Screenshot
 
 <img width="2264" height="3886" alt="127 0 0 1_5500_index html" src="https://github.com/user-attachments/assets/f64d75cd-4993-446d-9134-ba3499bc9c75" />
 
-###Links
+### Links
 
 - Live Site URL: https://simpleomletterecipepage.netlify.app/
 
